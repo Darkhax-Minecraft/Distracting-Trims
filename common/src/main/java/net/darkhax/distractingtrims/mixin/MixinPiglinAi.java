@@ -27,7 +27,7 @@ public class MixinPiglinAi {
 
             if (stack.hasTag()) {
 
-                final ArmorTrim trim = ArmorTrim.getTrim(wearer.level().registryAccess(), stack).orElse(null);
+                final ArmorTrim trim = ArmorTrim.getTrim(wearer.level().registryAccess(), stack, true).orElse(null);
 
                 if (trim != null && trim.material().is(DISTRACTING_TRIM)) {
 
