@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "DistractingTrims",
+    "group": "net.darkhax.distractingtrims",
+    "authors": [
+      "Darkhax"
+    ],
+    "id": "distractingtrims",
+    "license": "LGPL 2.1",
+    "description": "Golden armor trims distract piglins from attacking you.",
+    "repo": "https://github.com/Darkhax-Minecraft/Distracting-Trims",
+    "client": false
+  },
+  "dependencies": [],
+  "curseforge": {
+    "slug": "distracting-trims",
+    "id": "862201"
+  },
+  "modrinth": {
+    "slug": "distracting-trims",
+    "id": "xQU6E1ee"
+  }
+}
