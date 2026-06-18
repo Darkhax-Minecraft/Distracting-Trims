@@ -4,9 +4,9 @@ issueTrackerURL = "https://github.com/Darkhax-Minecraft/Distracting-Trims/issues
 
 [[mods]]
 modId = "distractingtrims"
-version = "26.1.2.0"
+version = "26.2.0.0"
 displayName = "DistractingTrims"
-updateJSONURL = "https://updates.blamejared.com/get?n=distractingtrims&gv=26.1.2&ml=neoforge"
+updateJSONURL = "https://updates.blamejared.com/get?n=distractingtrims&gv=26.2&ml=neoforge"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/distracting-trims"
 logoFile = "logo_distractingtrims.png"
 logoBlur = false
@@ -23,14 +23,14 @@ config = "distractingtrims.neoforge.mixins.json"
 [[dependencies.distractingtrims]]
 modId = "minecraft"
 type = "required"
-versionRange = "26.1"
+versionRange = "26.2"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.distractingtrims]]
 modId = "neoforge"
 type = "required"
-versionRange = "[26.1.0.1-beta,)"
+versionRange = "[26.2.0.1-beta,)"
 ordering = "NONE"
 side = "BOTH"
 

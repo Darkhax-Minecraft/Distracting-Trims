@@ -1,5 +1,5 @@
 <!-- name-start -->
-# DistractingTrims [![CurseForge Project](https://img.shields.io/curseforge/dt/862201?logo=curseforge&label=CurseForge&style=flat-square&labelColor=2D2D2D&color=555555)](https://www.curseforge.com/minecraft/mc-mods/distracting-trims) [![Modrinth Project](https://img.shields.io/modrinth/dt/xQU6E1ee?logo=modrinth&label=Modrinth&style=flat-square&labelColor=2D2D2D&color=555555)](https://modrinth.com/mod/distracting-trims) [![Maven Project](https://img.shields.io/maven-metadata/v?style=flat-square&logoColor=D31A38&labelColor=2D2D2D&color=555555&label=Latest&logo=gradle&metadataUrl=https%3A%2F%2Fmaven.blamejared.com%2Fnet%2Fdarkhax%2Fdistractingtrims%2Fdistractingtrims-common-26.1.2%2Fmaven-metadata.xml)](https://maven.blamejared.com/net/darkhax/distractingtrims)
+# DistractingTrims [![CurseForge Project](https://img.shields.io/curseforge/dt/862201?logo=curseforge&label=CurseForge&style=flat-square&labelColor=2D2D2D&color=555555)](https://www.curseforge.com/minecraft/mc-mods/distracting-trims) [![Modrinth Project](https://img.shields.io/modrinth/dt/xQU6E1ee?logo=modrinth&label=Modrinth&style=flat-square&labelColor=2D2D2D&color=555555)](https://modrinth.com/mod/distracting-trims) [![Maven Project](https://img.shields.io/maven-metadata/v?style=flat-square&logoColor=D31A38&labelColor=2D2D2D&color=555555&label=Latest&logo=gradle&metadataUrl=https%3A%2F%2Fmaven.blamejared.com%2Fnet%2Fdarkhax%2Fdistractingtrims%2Fdistractingtrims-common-26.2%2Fmaven-metadata.xml)](https://maven.blamejared.com/net/darkhax/distractingtrims)
 <!-- name-end -->
 
 <!-- description-start -->
@@ -22,11 +22,11 @@ repositories {
 
 dependencies {
      // NeoForge
-     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-neoforge-26.1.2', version: '26.1.2.0'
+     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-neoforge-26.2', version: '26.2.0.0'
      // Fabric
-     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-fabric-26.1.2', version: '26.1.2.0'
+     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-fabric-26.2', version: '26.2.0.0'
      // Common / MultiLoader / Vanilla / No Loader
-     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-common-26.1.2', version: '26.1.2.0'
+     implementation group: 'net.darkhax.distractingtrims', name: 'distractingtrims-common-26.2', version: '26.2.0.0'
 }
 ```
 
