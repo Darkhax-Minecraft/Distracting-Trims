@@ -10,7 +10,7 @@ updateJSONURL = "https://updates.blamejared.com/get?n=distractingtrims&gv=26.2&m
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/distracting-trims"
 logoFile = "logo_distractingtrims.png"
 logoBlur = false
-credits = "This project is made possible with Patreon support from players like you. Thank you! lothrazar, techsquirrel, Keyana , Darkosto, Tobias Ward, noobanidus"
+credits = "This project is made possible with Patreon support from players like you. Thank you! lothrazar, techsquirrel, Tobias Ward, noobanidus"
 authors = "Darkhax"
 description = "Golden armor trims distract piglins from attacking you."
 
