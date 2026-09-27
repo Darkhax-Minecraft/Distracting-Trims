@@ -4,12 +4,11 @@ issueTrackerURL = "https://github.com/Darkhax-Minecraft/Distracting-Trims/issues
 
 [[mods]]
 modId = "distractingtrims"
-version = "26.2.0.0"
+version = "26.3.0.0"
 displayName = "DistractingTrims"
-updateJSONURL = "https://updates.blamejared.com/get?n=distractingtrims&gv=26.2&ml=neoforge"
+updateJSONURL = "https://updates.blamejared.com/get?n=distractingtrims&gv=26.3&ml=neoforge"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/distracting-trims"
-logoFile = "logo_distractingtrims.png"
-logoBlur = false
+iconFile = "logo_distractingtrims.png"
 credits = "This project is made possible with Patreon support from players like you. Thank you! lothrazar, techsquirrel, Tobias Ward, noobanidus"
 authors = "Darkhax"
 description = "Golden armor trims distract piglins from attacking you."
@@ -23,14 +22,14 @@ config = "distractingtrims.neoforge.mixins.json"
 [[dependencies.distractingtrims]]
 modId = "minecraft"
 type = "required"
-versionRange = "26.2"
+versionRange = "26.3"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.distractingtrims]]
 modId = "neoforge"
 type = "required"
-versionRange = "[26.2.0.1-beta,)"
+versionRange = "[26.3.0.16-beta,)"
 ordering = "NONE"
 side = "BOTH"
 
